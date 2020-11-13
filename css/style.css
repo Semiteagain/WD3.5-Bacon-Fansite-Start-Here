@@ -1,3 +1,22 @@
+
+
 h1{
-    color: red;
+    color:red;
+    font-size: 100px;
+}
+
+/* img {
+    background-color: red;
+} */
+
+.bacon {
+    background-color: green;
+}
+
+.broccoli {
+    background-color: red;
+}
+
+#heading {
+    color: blue;
 }
